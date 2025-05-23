@@ -24,7 +24,7 @@ import SkillsMain from "./components/skillsSection/SkillsMain";
 import SubSkills from "./components/skillsSection/SubSkills";
 import ExpeinceMain from "./components/experinceSection/ExpeinceMain";
 import ProjectsMain from "./components/projectSection/ProjectsMain";
-import ContactMe from "./components/contactMeSection/contactMe";
+import ContactMe from "./components/contactMeSection/ContactMe";
 import FooterMain from "./components/footer/FooterMain";
 
 function App() {
