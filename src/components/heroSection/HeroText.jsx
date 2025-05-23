@@ -147,7 +147,7 @@ const HeroText = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0 }}
-        href="https://drive.google.com/file/d/1dYuLZ4Y0SOzxhcz3n76X4MWcmquQte1T/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1AhY2qyL1wYV2yjx8inittIcnXv6lpp58/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="self-center md:self-start"
